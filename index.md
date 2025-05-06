@@ -3,9 +3,6 @@ title: "CBooty - Software Engineer"
 description: "Software Engineer · Systems Thinker · Working cleanly, thinking deeply, shipping simply."
 ---
 
-
-# CBooty - Software Engineer
-
 ## About
 
 I'm Chris Booty. I’m a Software Engineer at [Boatsetter](https://www.boatsetter.com), working on a Frontend
