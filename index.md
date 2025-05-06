@@ -1,161 +1,39 @@
-# Markdown Syntax Guide
-
-A quick reference showcasing all major Markdown syntax elements.
-
 ---
-
-## Headings
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-
-## Emphasis
-
-
-*Italic* or _Italic_
-
-**Bold** or __Bold__
-
-***Bold and Italic*** or ___Bold and Italic___
-
-
-## Blockquotes
-
-
-> This is a blockquote.
->> Nested blockquote.
-
-
-## Lists
-
-### Unordered
-
-
-- Item A
-  - Subitem A1
-- Item B
-* Item C
-
-
-### Ordered
-
-
-1. First
-2. Second
-   1. Subsecond
-3. Third
-
-
-### Task Lists
-
-
-- [x] Completed task
-- [ ] Incomplete task
-
-
-## Code
-
-### Inline
-
-
-Here is `inline code`.
-
-
-### Block
-
-```js
-function nestedLoop() {
-  for (let i = 0; i < 10; i++) {
-    for (let j = 0; j < 10; j++) {
-      console.log(i, j);
-    }
-  }
-}
-```
-
-```html
-<div>
-  <h1>Hello, world!</h1>
-</div>
-```
-
-```css
-.container {
-  width: 100%;
-  height: 100%;
-}
-```
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, World!")
-}
-```
-
-## Horizontal Rule
-
-
+title: "CBooty - Software Engineer"
+description: "Software Engineer · Systems Thinker · Working cleanly, thinking deeply, shipping simply."
 ---
 
 
-## Links
+# CBooty - Software Engineer
 
+## About
 
-[Text](https://example.com)
+I'm Chris Booty. I’m a Software Engineer at [Boatsetter](https://www.boatsetter.com), working on a Frontend
+Platform team. Before writing software, I spent 8 years in QA at Boatsetter and went through
+a Ruby on Rails boot camp in 2015.
 
-[Text with Title](https://example.com "Title")
+I care about simplicity, clarity, and doing things the right way. I value
+test-driven development, modern CI/CD, and trunk-based delivery. I favor mature
+tools and proven patterns over hype or novelty.
 
-<https://example.com>
+I’m curious about systems—both technical and cultural—and I spend time studying
+the tools I use, the assumptions behind them, and how to improve them. Outside
+of work, I explore topics like English, anthropology, survival gardening, time,
+and Bigfoot.
 
+## Projects
 
-## Images
+I’m currently building a terminal-based JavaScript game where the player
+explores a world shaped like a cube. It’s a focused exercise in game loops,
+input handling, and ASCII rendering.
 
+Most of my professional work is not publicly available, but I’m actively
+working to change that.
 
-![Alt text](https://via.placeholder.com/150)
+## Contact
 
-![Alt with Title](https://via.placeholder.com/150 "Title text")
+- GitHub: [ChrisAlan313](https://github.com/ChrisAlan313)
+- Email: chrisalan313@gmail.com  
 
-
-## Tables
-
-
-| Name  | Age | Role       |
-|-------|-----|------------|
-| Alice |  30 | Developer  |
-| Bob   |  25 | Designer   |
-
-
-## HTML in Markdown
-
-
-<div style="color: red;">Red text using HTML</div>
-
-
-## Escaping Characters
-
-
-\*Not italic\*
-
-
-## Footnotes
-
-
-This is a statement with a footnote.[^1]
-
-[^1]: This is the footnote text.
-
-
-## Definition Lists (Not widely supported)
-
-
-Term 1
-: Definition 1
+Not seeking new roles. Open to volunteer collaborations in topics like
+anthropology, Old English, gardening, and cryptozoology.
